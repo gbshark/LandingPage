@@ -1,0 +1,45 @@
+.contato {
+  padding: 60px 50px;
+  text-align: center;
+  
+  background-image: url('../img/fundo.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.contato-title {
+  color: #c800ff;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.form-contato {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 30px auto;
+  text-align: left;
+}
+
+.form-contato label {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.form-contato input, .form-contato textarea {
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-contato button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
