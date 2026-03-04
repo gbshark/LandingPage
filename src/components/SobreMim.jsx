@@ -6,7 +6,7 @@ function SobreMim() {
       <div className="sobre-conteudo">
         <h2>Sobre mim</h2>
         <p>
-          Meu nome é Fulano e eu estudo desenvolvimento web desde janeiro de 2024.
+          Meu nome é Gabriel Oliveira de Sant'anna e eu estudo desenvolvimento web desde janeiro de 2024.
           Comecei meus estudos em HTML/CSS e hoje tenho conhecimento de diversas tecnologias.
         </p>
         <p>

@@ -17,7 +17,7 @@ function Header() {
       <div className="hero-container">
         <div className="hero-text">
           <p>Olá! Seja bem-vindo(a) ao meu portfólio.</p>
-          <h1>Meu nome é <span className="highlight">Fulano</span> e eu sou um desenvolvedor web</h1>
+          <h1>Meu nome é <span className="highlight">Gabriel Oliveira</span> e eu sou um desenvolvedor web</h1>
           <div className="social-links">
             {/* Adicione seus links aqui */}
             <a href="https://github.com/SEU_USUARIO" target="_blank" rel="noopener noreferrer">
